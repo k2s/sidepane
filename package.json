@@ -14,5 +14,5 @@
     },
     "dependencies": {
     },
-    "dojoBuild": ""
+    "dojoBuild": "package.js"
 }
